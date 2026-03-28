@@ -1,0 +1,8 @@
+{
+  "name": "Orion Live AI beta",
+  "description": "Uma inteligência artificial avançada com interação por voz e texto em tempo real.",
+  "requestFramePermissions": [
+    "microphone",
+    "clipboard-write"
+  ]
+}
